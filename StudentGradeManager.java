@@ -1,3 +1,13 @@
+// this is a source code  for a marks entry management system in java with eclipse compiled by ..... 
+// 
+//Babirye Catherine 2500714971
+//Mabberi mollivia 2500715211
+//Namuyomba Dorcus 2500715499
+//Nabukenya Annet 2500715353
+
+
+
+
 import java.util.Scanner;
 
 public class StudentGradeManager {
